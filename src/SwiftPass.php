@@ -1,6 +1,6 @@
 <?php
 
-namespace Barbery;
+namespace QT;
 
 use Exception;
 use GuzzleHttp\Client;
